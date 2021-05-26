@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://wallpaper.onrender.com"
-theme = "three"
+theme = "mundanem"
 title = "HD Wallpaper"
 MetaDataFormat = "yaml"
 themesDir = "themes"
